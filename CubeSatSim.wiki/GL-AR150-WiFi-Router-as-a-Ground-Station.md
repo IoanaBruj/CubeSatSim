@@ -1,0 +1,1 @@
+The instructions to setup an OpenWrt Router have to moved to here [here](RTL-SDR-on-OpenWrt-Router).
